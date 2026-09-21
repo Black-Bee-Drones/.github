@@ -20,11 +20,12 @@ We compete nationally and internationally — [IMAV](https://www.imavs.org/) (3r
 
 | Repository | Event | Competition | Hugging Face |
 | --- | --- | --- | :---: |
-| [SAE-Eletroquad](https://github.com/Black-Bee-Drones/SAE-Eletroquad) | SAE BRASIL EletroQuad 2026 · 2nd place | [EletroQuad](https://saebrasil.org.br/programas-estudantis/eletroquad/) | [SAE - 2026](https://huggingface.co/collections/blackbeedrones/sae-2026) |
-| [imav-2025](https://github.com/Black-Bee-Drones/imav-2025) | IMAV 2025 (16th) | [IMAV 2025](https://femexrobotica.org/imav2025/) | [IMAV - 2025](https://huggingface.co/collections/blackbeedrones/imav-2025) |
+| [SAE-2026](https://github.com/Black-Bee-Drones/SAE-2026) | SAE BRASIL EletroQuad 2026 · 2nd place | [EletroQuad](https://saebrasil.org.br/programas-estudantis/eletroquad/) | [SAE - 2026](https://huggingface.co/collections/blackbeedrones/sae-2026) |
+| [imav-2025](https://github.com/Black-Bee-Drones/imav-2025) | IMAV 2025 (16th) · indoor 3rd place | [IMAV 2025](https://femexrobotica.org/imav2025/) | [IMAV - 2025](https://huggingface.co/collections/blackbeedrones/imav-2025) |
 | [cbr-2025](https://github.com/Black-Bee-Drones/cbr-2025) | CBR Flying Robot League 2025 | [CBR](https://cbr.robocup.org.br/) | [CBR - 2025](https://huggingface.co/collections/blackbeedrones/cbr-2025) |
+| [SAE-Eletroquad](https://github.com/Black-Bee-Drones/SAE-Eletroquad) | SAE BRASIL EletroQuad 2025 | [EletroQuad](https://saebrasil.org.br/programas-estudantis/eletroquad/) | |
 | [imav-2024](https://github.com/Black-Bee-Drones/imav-2024) | IMAV 2024 (15th) | [IMAV 2024](https://www.imavs.org/2024/) | |
-| [imav2023-indoor](https://github.com/Black-Bee-Drones/imav2023-indoor) | IMAV 2023 indoor (14th) | [IMAV 2023](https://www.imavs.org/2023/) | |
+| [imav2023-indoor](https://github.com/Black-Bee-Drones/imav2023-indoor) | IMAV 2023 indoor (14th) · indoor 3rd place & special achievement | [IMAV 2023](https://www.imavs.org/2023/) | |
 
 ## Bridges & utilities
 
